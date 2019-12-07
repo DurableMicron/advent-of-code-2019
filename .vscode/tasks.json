@@ -6,7 +6,7 @@
         {
             "label": "run",
             "type": "shell",
-            "command": "./day2/part1.sh",
+            "command": "./day2/part2.sh",
             "group": {
                 "kind": "build",
                 "isDefault": true
