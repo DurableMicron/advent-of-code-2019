@@ -11,3 +11,5 @@ I haven't done much puzzles in my time, so my code will likely be terrible, and 
 [Day 1 - Python](./day1/)
 
 [Day 2 - Bash](./day2/)
+
+[Day 3 - C](./day3/)
